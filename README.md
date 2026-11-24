@@ -70,7 +70,7 @@
 - **Use a Safari Blocker that supports userscripts (wBlock or AdGuard.)** You might access such websites on your PC with uBlock normally, but you might have the same issue as mentioned on your iPhone. You might have used DNS, or even Safari's built-in tracking prevention, but the pop-up remains. This is because uBlock on browsers on your PC essentially injects **anti-adblock scriptlets**. Apple's WebKit and Safari Content Blocker API by nature only allow static declarative rules, which essentially means that basic blockers **cannot run scriptlets**. A blocker like wBlock or Wipr would **likely** fix this problem.  
 - **Use Brave (or another web browser.)** Brave is among the most popular browsers that enforces their very own ad-blocking mechanisms above the WebKit base.
 
------
+
 
 [^1]: To block trackers, malware, adult, and gambling, you may need to enable/apply specific blocklists (such as HaGeZi or OISD), modify specific settings, or use more specialized programs (such as BetBlocker or BlockP) and DNS resolvers.
 
@@ -89,5 +89,3 @@
 [^8]: Dedicated software does something better, while others are worse than extensions. It's like comparing apples and oranges: software wins on wider coverage, while extensions can do just as well or even better in filtering in browsers. **It depends on your priority.**
 
 [^9]: Dedicated apps on Android generally do offer two modes: VPN mode and DNS mode. VPN mode is what takes up your only VPN slot, but it is more capable than DNS. DNS mode means just using the ad-blocking DNS, which is far less capable than what the VPN mode can actually offer.
-
------
