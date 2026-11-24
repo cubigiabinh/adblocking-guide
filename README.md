@@ -72,22 +72,22 @@
 
 -----
 
-[^1] <small>:To block trackers, malware, adult, and gambling, you may need to enable/apply specific blocklists (such as HaGeZi or OISD), modify specific settings, or use more specialized programs (such as BetBlocker or BlockP) and DNS resolvers.
+[^1]: To block trackers, malware, adult, and gambling, you may need to enable/apply specific blocklists (such as HaGeZi or OISD), modify specific settings, or use more specialized programs (such as BetBlocker or BlockP) and DNS resolvers.
 
-[^2] <small>:Brave is among the most well-known among Chrome-based browsers who still fully support uBlock Origin. Helium and Thorium are also solid alternatives.
+[^2]: Brave is among the most well-known among Chrome-based browsers who still fully support uBlock Origin. Helium and Thorium are also solid alternatives.
 
-[^3] <small>:Google pushed Manifest V3 to Google Chrome, which makes uBlock Origin **dysfunctional**. Its brother **uBO Lite** works on Google Chrome, but with weaker filtering. The community viewed this as a step towards fighting ad-blockers. Some Chrome-based browsers offer support for uBlock Origin like Helium or Brave.
+[^3]: Google pushed Manifest V3 to Google Chrome, which makes uBlock Origin **dysfunctional**. Its brother **uBO Lite** works on Google Chrome, but with weaker filtering. The community viewed this as a step towards fighting ad-blockers. Some Chrome-based browsers offer support for uBlock Origin like Helium or Brave.
 
-[^4] <small>:Google pushed Manifest V3 to Google Chrome, which makes uBlock Origin **dysfunctional**. Its brother **uBO Lite** works on Google Chrome, but with weaker filtering. The community viewed this as a step towards fighting ad-blockers. Some Chrome-based browsers offer support for uBlock Origin like Helium or Brave.
+[^4]: Google pushed Manifest V3 to Google Chrome, which makes uBlock Origin **dysfunctional**. Its brother **uBO Lite** works on Google Chrome, but with weaker filtering. The community viewed this as a step towards fighting ad-blockers. Some Chrome-based browsers offer support for uBlock Origin like Helium or Brave.
 
-[^5] <small>:**Whether DNS can block in-app ads like mobile game ads depend entirely on how the ads are fetched.** For example, the ad images are fetched from remote servers in **some** mobile game apps. If that's the case, DNS could block the domains, essentially blocking the ads. **Keep in mind that app developers have many ways to implement ads, in which DNS cannot block.**
+[^5]: **Whether DNS can block in-app ads like mobile game ads depend entirely on how the ads are fetched.** For example, the ad images are fetched from remote servers in **some** mobile game apps. If that's the case, DNS could block the domains, essentially blocking the ads. **Keep in mind that app developers have many ways to implement ads, in which DNS cannot block.**
 
-[^6] <small>:Technically, Control D offers a 14-day free trial with no credit card required. After the free trial, you can still use the DNS, but you will lose access to all the features, including logging, or customizable block lists, essentially rendering itself as equivalent of normal non-adblocking DNS like Google or Cloudflare.
+[^6]: Technically, Control D offers a 14-day free trial with no credit card required. After the free trial, you can still use the DNS, but you will lose access to all the features, including logging, or customizable block lists, essentially rendering itself as equivalent of normal non-adblocking DNS like Google or Cloudflare.
 
-[^7] <small>:This is not a consumer VPN (which is more reliable on geo-blocking,) is paid tier only, and is not guaranteed to work with services that actively fight geo-unblocking. **Treat this claim with a grain of salt.** Your traffic to those domains passes through Control D’s infrastructure, and using their geo-unblocking feature may violate the terms of some services. If anything, this is more of a marketing claim than functional. It is a convenient add-on, rather than an actual replacement. If you need geo-unblocking, please consider a VPN instead.  
+[^7]: This is not a consumer VPN (which is more reliable on geo-blocking,) is paid tier only, and is not guaranteed to work with services that actively fight geo-unblocking. **Treat this claim with a grain of salt.** Your traffic to those domains passes through Control D’s infrastructure, and using their geo-unblocking feature may violate the terms of some services. If anything, this is more of a marketing claim than functional. It is a convenient add-on, rather than an actual replacement. If you need geo-unblocking, please consider a VPN instead.  
 
-[^8] <small>:Dedicated software does something better, while others are worse than extensions. It's like comparing apples and oranges: software wins on wider coverage, while extensions can do just as well or even better in filtering in browsers. **It depends on your priority.**
+[^8]: Dedicated software does something better, while others are worse than extensions. It's like comparing apples and oranges: software wins on wider coverage, while extensions can do just as well or even better in filtering in browsers. **It depends on your priority.**
 
-[^9] <small>:Dedicated apps on Android generally do offer two modes: VPN mode and DNS mode. VPN mode is what takes up your only VPN slot, but it is more capable than DNS. DNS mode means just using the ad-blocking DNS, which is far less capable than what the VPN mode can actually offer.
+[^9]: Dedicated apps on Android generally do offer two modes: VPN mode and DNS mode. VPN mode is what takes up your only VPN slot, but it is more capable than DNS. DNS mode means just using the ad-blocking DNS, which is far less capable than what the VPN mode can actually offer.
 
 -----
