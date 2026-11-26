@@ -6,7 +6,7 @@
 
 ### 1. Browser extensions
 
-&emsp;These are designed as extensions to work alongside your browser. These extensions can basically interact with, read, modify any web page you visit. Because of that, it is best that you use well-known and trust-worthy extensions. Some of them are listed below. Do note that each of these do have their own downsides.
+&emsp;These are designed as extensions to work alongside your browser. These extensions can basically interact with, read, modify any web page you visit. Therefore, it is best that you use well-known and trust-worthy extensions. Some of them are listed below. Do note that each of these do have their own downsides.
 
 - **uBlock Origin (Firefox/Brave)[^2]:** **open-source**, extremely **lightweight**, highly customizable, exceptionally efficient. It works fully on Firefox; it is gone from Chrome, and its brother is comparatively weaker.[^3]
 
