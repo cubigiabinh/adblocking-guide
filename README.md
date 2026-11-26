@@ -32,7 +32,7 @@
 
 - **AdGuard DNS:** polished, beginner-friendly, usually sold as part of the ecosystem. It purely focuses on filtering, and they are limited. Upselling their users is part of their marketing: **300k** queries on the Starter tier; **10M** queries and 20 devices on the more expensive tier  
 
-&emsp;*For privacy enthusiasts: Control D is developed by the same team behind Windscribe VPN (which is based in Canada). Control D claims that they don't store your DNS queries or information, but **that's their own claim**. AdGuard (which is based in Cyprus) is at the time of writing **not fully audited by a third-party**, even though they also promise a strict no-logging policy. If you're serious about privacy, hosting a DNS yourself is a great way. Pi-hole and AdGuard Home are some of the most popular options. Most people do it with a Raspberry Pi, some even with an old phone. It shouldn't take much resources.*  
+&emsp;*For privacy enthusiasts: Control D is developed by the same team behind Windscribe VPN (which is based in Canada). Control D claims that they don't store your DNS queries or information, but **that's their own claim**. AdGuard (which is based in Cyprus) is at the time of writing **not fully audited by a third-party**, even though they also promise a strict no-logging policy. If you're serious about privacy, hosting a DNS yourself is a great alternative. Pi-hole and AdGuard Home are some of the most popular options. Most people do it with a Raspberry Pi, some even with an old phone. It shouldn't take much resources.*  
 
 ### 3. Specialized apps/software
 
