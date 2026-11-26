@@ -68,7 +68,7 @@
 &emsp;**All browsers are forced to use Apple's WebKit** on iOS/iPadOS, meaning Google Chrome, Firefox or even Brave are all fundamentally **Safari**.
 
 - **Use a Safari Blocker that supports userscripts (wBlock or AdGuard.)** You might access such websites on your PC with uBlock normally, but you might have the same issue as mentioned on your iPhone. You might have used DNS, or even Safari's built-in tracking prevention, but the pop-up remains. This is because uBlock on browsers on your PC essentially injects **anti-adblock scriptlets**. Apple's WebKit and Safari Content Blocker API by nature only allow static declarative rules, which essentially means that basic blockers **cannot run scriptlets**. A blocker like wBlock or Wipr would **likely** fix this problem.  
-- **Use Brave (or another web browser.)** Brave is among the most popular browsers that enforces their very own ad-blocking mechanisms above the WebKit base.
+- **Use Brave (or another web browser.)** Brave is among the most popular browsers that enforces their very own code and protection mechanisms above the WebKit base.
 
 [^1]: To block trackers, malware, adult, and gambling, you may need to enable/apply specific blocklists (such as HaGeZi or OISD), modify specific settings, or use more specialized programs (such as BetBlocker or BlockP) and DNS resolvers.
 
@@ -82,6 +82,6 @@
 
 [^6]: This is not a consumer VPN (which is more reliable on geo-blocking,) is paid tier only, and is not guaranteed to work with services that actively fight geo-unblocking. **Treat this claim with a grain of salt.** Your traffic to those domains passes through Control D’s infrastructure, and using their geo-unblocking feature may violate the terms of some services. If anything, this is more of a marketing claim than functional. It is a convenient add-on, rather than an actual replacement. If you need geo-unblocking, please consider a VPN instead.  
 
-[^7]: Dedicated software does something better, while others are worse than extensions. It's like comparing apples and oranges: software wins on wider coverage, while extensions can do just as well or even better in filtering in browsers. **It depends on your priority.**
+[^7]: Dedicated software does something better, while others are worse than extensions. It's like comparing apples and oranges: software wins on wider coverage, while extensions can do just as well or even better in filtering exclusively on browsers. **It depends on your priority.**
 
 [^8]: Dedicated apps on Android generally do offer two modes: VPN mode and DNS mode. VPN mode is what takes up your only VPN slot, but it is more capable than DNS. DNS mode means just using the ad-blocking DNS, which is far less capable than what the VPN mode can actually offer.
